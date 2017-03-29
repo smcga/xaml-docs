@@ -31,6 +31,12 @@ __Figure 1__ demonstrates how these properties affect the control.
 #### __Figure 1: Customized RadVerticalLinearGauge control__
 ![](images/gauge-styles-and-templates-backrounds-borders-01.png)
 
+You can also customize the __LinearScale’s__ colors using its __Fill__, __Stroke__ and __StrokeThickness__ properties.
+
+* __Fill__: Gets or sets a brush that describes the fill of the scale
+* __Stroke__: Gets or sets a brush that describes the stroke of the scale
+* __StrokeThickness__: Gets or sets the thickness of the scale’s stroke
+
 > The example demonstrates only the RadVerticalLinearGauge but all linear gauges can be customized using the properties above.
 
 ## Radial Gauge
